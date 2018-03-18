@@ -1,0 +1,84 @@
+C:\Users\Roland\Downloads\Compilourdes\Compilourdes\bin\Debug\Compilourdes.exe.config
+C:\Users\Roland\Downloads\Compilourdes\Compilourdes\bin\Debug\Compilourdes.exe
+C:\Users\Roland\Downloads\Compilourdes\Compilourdes\bin\Debug\Compilourdes.pdb
+C:\Users\Roland\Downloads\Compilourdes\Compilourdes\obj\Debug\Compilourdes.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Downloads\Compilourdes\Compilourdes\obj\Debug\Compilourdes.Compilourdes_GUI.resources
+C:\Users\Roland\Downloads\Compilourdes\Compilourdes\obj\Debug\Compilourdes.Properties.Resources.resources
+C:\Users\Roland\Downloads\Compilourdes\Compilourdes\obj\Debug\Compilourdes.csproj.GenerateResource.Cache
+C:\Users\Roland\Downloads\Compilourdes\Compilourdes\obj\Debug\Compilourdes.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Downloads\Compilourdes\Compilourdes\obj\Debug\Compilourdes.exe
+C:\Users\Roland\Downloads\Compilourdes\Compilourdes\obj\Debug\Compilourdes.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\bin\Debug\Compilourdes.exe.config
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\bin\Debug\Compilourdes.exe
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\bin\Debug\Compilourdes.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\obj\Debug\Compilourdes.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\obj\Debug\Compilourdes.Compilourdes_GUI.resources
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\obj\Debug\Compilourdes.Properties.Resources.resources
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\obj\Debug\Compilourdes.csproj.GenerateResource.Cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\obj\Debug\Compilourdes.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\obj\Debug\Compilourdes.exe
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\obj\Debug\Compilourdes.pdb
+C:\Users\Hernando\documents\visual studio 2017\Projects\Compilourdes\Compilourdes\bin\Debug\Compilourdes.exe.config
+C:\Users\Hernando\documents\visual studio 2017\Projects\Compilourdes\Compilourdes\bin\Debug\Compilourdes.exe
+C:\Users\Hernando\documents\visual studio 2017\Projects\Compilourdes\Compilourdes\bin\Debug\Compilourdes.pdb
+C:\Users\Hernando\documents\visual studio 2017\Projects\Compilourdes\Compilourdes\obj\Debug\Compilourdes.csprojResolveAssemblyReference.cache
+C:\Users\Hernando\documents\visual studio 2017\Projects\Compilourdes\Compilourdes\obj\Debug\Compilourdes.Compilourdes_GUI.resources
+C:\Users\Hernando\documents\visual studio 2017\Projects\Compilourdes\Compilourdes\obj\Debug\Compilourdes.Properties.Resources.resources
+C:\Users\Hernando\documents\visual studio 2017\Projects\Compilourdes\Compilourdes\obj\Debug\Compilourdes.csproj.GenerateResource.Cache
+C:\Users\Hernando\documents\visual studio 2017\Projects\Compilourdes\Compilourdes\obj\Debug\Compilourdes.exe
+C:\Users\Hernando\documents\visual studio 2017\Projects\Compilourdes\Compilourdes\obj\Debug\Compilourdes.pdb
+C:\Users\Hernando\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\bin\Debug\Compilourdes.exe.config
+C:\Users\Hernando\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\bin\Debug\Compilourdes.exe
+C:\Users\Hernando\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\bin\Debug\Compilourdes.pdb
+C:\Users\Hernando\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\obj\Debug\Compilourdes.csprojResolveAssemblyReference.cache
+C:\Users\Hernando\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\obj\Debug\Compilourdes.Compilourdes_GUI.resources
+C:\Users\Hernando\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\obj\Debug\Compilourdes.Properties.Resources.resources
+C:\Users\Hernando\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\obj\Debug\Compilourdes.csproj.GenerateResource.Cache
+C:\Users\Hernando\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\obj\Debug\Compilourdes.exe
+C:\Users\Hernando\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\obj\Debug\Compilourdes.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\bin\Debug\Compilourdes.exe.config
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\bin\Debug\Compilourdes.exe
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\bin\Debug\Compilourdes.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\obj\Debug\Compilourdes.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\obj\Debug\Compilourdes.Compilourdes_GUI.resources
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\obj\Debug\Compilourdes.Properties.Resources.resources
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\obj\Debug\Compilourdes.csproj.GenerateResource.Cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\obj\Debug\Compilourdes.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\obj\Debug\Compilourdes.exe
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes trial\Compilourdes\obj\Debug\Compilourdes.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Compilourdes\bin\Debug\Compilourdes.exe.config
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Compilourdes\bin\Debug\Compilourdes.exe
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Compilourdes\bin\Debug\Compilourdes.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Compilourdes\obj\Debug\Compilourdes.csprojResolveAssemblyReference.cache
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Compilourdes\obj\Debug\Compilourdes.Compilourdes_GUI.resources
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Compilourdes\obj\Debug\Compilourdes.Properties.Resources.resources
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Compilourdes\obj\Debug\Compilourdes.csproj.GenerateResource.Cache
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Compilourdes\obj\Debug\Compilourdes.exe
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Compilourdes\obj\Debug\Compilourdes.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Compilourdes\bin\Debug\TokenLibrary.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Compilourdes\bin\Debug\TokenLibrary.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Compilourdes\bin\Debug\Core Library.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Compilourdes\bin\Debug\Syntax Analyzer.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Compilourdes\bin\Debug\Core Library.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Compilourdes\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\NEW\Compilourdes\Compilourdes\bin\Debug\Compilourdes.exe.config
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\NEW\Compilourdes\Compilourdes\bin\Debug\Compilourdes.exe
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\NEW\Compilourdes\Compilourdes\bin\Debug\Compilourdes.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\NEW\Compilourdes\Compilourdes\bin\Debug\Core Library.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\NEW\Compilourdes\Compilourdes\bin\Debug\Syntax Analyzer.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\NEW\Compilourdes\Compilourdes\bin\Debug\TokenLibrary.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\NEW\Compilourdes\Compilourdes\bin\Debug\Core Library.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\NEW\Compilourdes\Compilourdes\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\NEW\Compilourdes\Compilourdes\bin\Debug\TokenLibrary.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\NEW\Compilourdes\Compilourdes\obj\Debug\Compilourdes.csprojResolveAssemblyReference.cache
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\NEW\Compilourdes\Compilourdes\obj\Debug\Compilourdes.Compilourdes_GUI.resources
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\NEW\Compilourdes\Compilourdes\obj\Debug\Compilourdes.Properties.Resources.resources
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\NEW\Compilourdes\Compilourdes\obj\Debug\Compilourdes.csproj.GenerateResource.Cache
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\NEW\Compilourdes\Compilourdes\obj\Debug\Compilourdes.exe
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\NEW\Compilourdes\Compilourdes\obj\Debug\Compilourdes.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\bin\Debug\Core Library.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\bin\Debug\Syntax Analyzer.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\bin\Debug\TokenLibrary.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\bin\Debug\Core Library.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Compilourdes\bin\Debug\TokenLibrary.pdb

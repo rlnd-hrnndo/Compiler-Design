@@ -1,0 +1,19 @@
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Syntax Analyzer\bin\Debug\Core Library.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Syntax Analyzer\bin\Debug\Core Library.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\bin\Debug\Core Library.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\bin\Debug\Core Library.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\obj\Debug\Syntax Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb

@@ -1,0 +1,10 @@
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\bin\Release\Syntax Analyzer.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\bin\Release\Syntax Analyzer.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\bin\Release\Core Library.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\bin\Release\TokenLibrary.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\bin\Release\Core Library.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\bin\Release\TokenLibrary.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\obj\Release\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\obj\Release\Syntax Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\obj\Release\Syntax Analyzer.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Syntax Analyzer\obj\Release\Syntax Analyzer.pdb

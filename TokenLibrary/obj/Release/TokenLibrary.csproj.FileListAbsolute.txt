@@ -1,0 +1,6 @@
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\TokenLibrary\bin\Release\TokenLibrary.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\TokenLibrary\bin\Release\TokenLibrary.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\TokenLibrary\obj\Release\TokenLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\TokenLibrary\obj\Release\TokenLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\TokenLibrary\obj\Release\TokenLibrary.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\TokenLibrary\obj\Release\TokenLibrary.pdb

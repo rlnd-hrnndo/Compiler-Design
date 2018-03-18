@@ -1,0 +1,26 @@
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Core Library\bin\Debug\Core Library.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Core Library\bin\Debug\Core Library.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Core Library\obj\Debug\Core Library.csprojResolveAssemblyReference.cache
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Core Library\obj\Debug\Core Library.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes\Core Library\obj\Debug\Core Library.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Core Library\bin\Debug\Core Library.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Core Library\bin\Debug\Core Library.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Core Library\obj\Debug\Core Library.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Core Library\obj\Debug\Core Library.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Core Library\obj\Debug\Core Library.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Core Library\obj\Debug\Core Library.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes 02-16-2018\Core Library\bin\Debug\Core Library.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes 02-16-2018\Core Library\bin\Debug\Core Library.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes 02-16-2018\Core Library\obj\Debug\Core Library.csprojResolveAssemblyReference.cache
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes 02-16-2018\Core Library\obj\Debug\Core Library.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes 02-16-2018\Core Library\obj\Debug\Core Library.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes 03-08-2018\Core Library\bin\Debug\Core Library.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes 03-08-2018\Core Library\bin\Debug\Core Library.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes 03-08-2018\Core Library\obj\Debug\Core Library.csprojResolveAssemblyReference.cache
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes 03-08-2018\Core Library\obj\Debug\Core Library.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes 03-08-2018\Core Library\obj\Debug\Core Library.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes 03-16-2018\Core Library\obj\Debug\Core Library.csprojResolveAssemblyReference.cache
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes 03-16-2018\Core Library\obj\Debug\Core Library.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes 03-16-2018\Core Library\obj\Debug\Core Library.pdb
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes 03-16-2018\Core Library\bin\Debug\Core Library.dll
+C:\Users\Kristoffer Ko\Documents\AUTOMATA\Compilourdes 03-16-2018\Core Library\bin\Debug\Core Library.pdb

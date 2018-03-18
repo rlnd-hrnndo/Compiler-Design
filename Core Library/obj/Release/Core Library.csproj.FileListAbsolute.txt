@@ -1,0 +1,6 @@
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Core Library\bin\Release\Core Library.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Core Library\bin\Release\Core Library.pdb
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Core Library\obj\Release\Core Library.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Core Library\obj\Release\Core Library.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Core Library\obj\Release\Core Library.dll
+C:\Users\Roland\Documents\Visual Studio 2017\Projects\Compilourdes\Core Library\obj\Release\Core Library.pdb

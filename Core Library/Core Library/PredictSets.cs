@@ -1,0 +1,173 @@
+﻿namespace Core.Library
+{
+    public class PredictSets
+    {
+        string program = "CONSTRUCT, GROUP, WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE, EMPTY, WAKE";
+        string prewake = "CONSTRUCT, WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE, GROUP, EMPTY, WAKE";
+        string dtype = "WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE";
+        string value = "WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit";
+        string value_id = "WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id";
+        string extraid = ",, ;";
+        string idext = ",, ;";
+        string array = ",, ;, @, !!, +, -, *, /, %, WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id, ==, <, >, <=, >=, !=, =, ), (, +=, -=, *=, /=";
+        string arrsize = "WHOLElit, id";
+        string arrcont = "=, ,, ;";
+        string arrcontins = "WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, {";
+        string arrcontins1 = ",, }";
+        string arrval = ",, }";
+        string init = "	=, , +, -, *, /, %, ,, ;";
+        string constant = "CONSTRUCT";
+        string record = "GROUP";
+        string recordbody = "WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE";
+        string recordaccess = "(, +, -, *, /, %, ==, <, >, <=, >=, !=, ;, =, &, ), WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id, <mathString>, +=, -=, *=, /=, <mathexp>, ,, &&, \\";
+        string globalvardec = "WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE";
+        string vardec = "WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE";
+        string incdec = "id, ++, --";
+        string unary = "++, --";
+        string incdecnosem = "id, ++, --";
+        string rel_op = "==, <, >, <=, >=, !=";
+        string logical_op = "&&, \\";
+        string not = "!!";
+        string funcforid = "+, -, *, /, %, ==, <, >, <=, >=, !=, ;, =, &, ), WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id, <mathString>, (, +=, -=, *=, /=, <mathexp>, ,, &&, \\";
+        string funch = "WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE, id";
+        string function = "WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE, EMPTY";
+        string functioncont = "id";
+        string parameter = "WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE, )";
+        string parameter1 = "id, )";
+        string paramcont = ",, )";
+        string parametercall = "WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id, ,, )";
+        string parametercallmath = "+, -, *, /, %, , )";
+        string paramcontcall = ",, )";
+        string ret = "id, WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit";
+        string body = "WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE, GROUP, SPEAK, LOOK, EXAMINE, UNTIL, id, ++, --, WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, EXECUTE, TEST, WORK";
+        string bodyloop = "WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE, GROUP, SPEAK, LOOK, EXAMINE, UNTIL, id, ++, --, CONTINUE, WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, EXECUTE, BREAK, TEST, WORK";
+        string recordassignvar = "GROUP";
+        string recordcont = ",";
+        string statement = "WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE, GROUP, WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id, SPEAK, LOOK, TEST, EXAMINE, EXECUTE, UNTIL, WORK, ++, --";
+        string statement2 = "WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE, GROUP, SPEAK, LOOK, EXAMINE, UNTIL, id, ++, --, WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, EXECUTE, TEST, WORK, BREAK, }, RETURN, END";
+        string statementloop = "WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE, GROUP, WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id, SPEAK, LOOK, TEST, EXAMINE, EXECUTE, UNTIL, WORK, ++, --";
+        string statementloop2 = "WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE, GROUP, SPEAK, LOOK, EXAMINE, UNTIL, id, ++, --, CONTINUE, WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, EXECUTE, BREAK, TEST, WORK";
+        string strcontinue = "CONTINUE";
+        string idstatement = "WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id";
+        string idstatement1 = ";, =, (, +=, -=, *=, /=";
+        string assign = "WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id, ++, --, (";
+        string assign1 = "WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id";
+        string mathExp = "	+, -, *, /, %";
+        string mathExpNext = "WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id";
+        string mathop = "+, -, *, /, %";
+        string relOpCont = "==, <, >, <=, >=, !=";
+        string relOpContNext = "WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id";
+        string logicalOpCont = "&&, \\";
+        string logicalOpContNext = "WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id";
+        string mathRelLogical = "WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id";
+        string allOperators = "==, <, >, <=, >=, !=, +, -, *, /, %, &&, \\";
+        string mathString = "&, +, -, *, /, %";
+        string IO = "SPEAK, LOOK";
+        string speak_next = "WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id, )";
+        string speak_str = "&, )";
+        string strswitch = "EXAMINE";
+        string cases = "PICK, DECIDE, }";
+        string pickstatement = "{";
+        string strbreak = "BREAK";
+        string strdefault = "DECIDE";
+        string strfor = "EXECUTE";
+        string initialization = "WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id";
+        string condition = "WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id";
+        string strif = "TEST";
+        string rel_exp = "(, WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id";
+        string rel_comp = "WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id, (";
+        string d_opTail = "+, -, *, /, %, (, WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, id,), ==, <, >, <=, >=, !=, &&, \\";
+        string strelse = "THEN, TESTIF, WHOLE, FRACTION, SYMBOL, PHRASE, CHOICE, GROUP, SPEAK, LOOK, EXAMINE, UNTIL, id, ++, --, CONTINUE, WHOLElit, FRACTIONlit, SYMBOLlit, PHRASElit, CHOICElit, EXECUTE, BREAK, TEST, WORK, }, RETURN, END";
+        string strwhile = "UNTIL";
+        string dowhile = "WORK";
+        
+
+        public string GetPredictSet(int code)
+        {
+            switch (code)
+            {
+                case 2001: return program;
+                case 2002: return prewake;
+                case 2003: return dtype;
+                case 2004: return value;
+                case 2005: return value_id;
+                case 2006: return extraid;
+                case 2007: return idext;
+                case 2008: return array;
+                case 2009: return arrsize;
+                case 2010: return arrcont;
+                case 2011: return arrcontins;
+                case 2012: return arrcontins1;
+                case 2013: return arrval;
+                case 2014: return init;
+                case 2015: return constant;
+                case 2016: return record;
+                case 2017: return recordbody;
+                case 2018: return recordaccess;
+                case 2019: return globalvardec;
+                case 2020: return vardec;
+                case 2021: return incdec;
+                case 2022: return unary;
+                case 2023: return incdecnosem;
+                case 2024: return rel_op;
+                case 2025: return logical_op;
+                case 2026: return not;
+                case 2027: return funcforid;
+                case 2028: return funch;
+                case 2029: return function;
+                case 2030: return functioncont;
+                case 2031: return parameter;
+                case 2032: return parameter1;
+                case 2033: return paramcont;
+                case 2034: return parametercall;
+                case 2035: return parametercallmath;
+                case 2036: return paramcontcall;
+                case 2037: return ret;
+                case 2038: return body;
+                case 2039: return bodyloop;
+                case 2040: return recordassignvar;
+                case 2041: return recordcont;
+                case 2042: return statement;
+                case 2043: return statement2;
+                case 2044: return statementloop;
+                case 2045: return statementloop2;
+                case 2046: return strcontinue;
+                case 2047: return idstatement;
+                case 2048: return idstatement1;
+                case 2049: return assign;
+                case 2050: return assign1;
+                case 2051: return mathExp;
+                case 2052: return mathExpNext;
+                case 2053: return mathop;
+                case 2054: return relOpCont;
+                case 2055: return relOpContNext;
+                case 2056: return logicalOpCont;
+                case 2057: return logicalOpContNext;
+                case 2058: return mathRelLogical;
+                case 2059: return allOperators;
+                case 2060: return mathString;
+                case 2061: return IO;
+                case 2062: return speak_next;
+                case 2063: return speak_str;
+                case 2064: return strswitch;
+                case 2065: return cases;
+                case 2066: return pickstatement;
+                case 2067: return strbreak;
+                case 2068: return strdefault;
+                case 2069: return strfor;
+                case 2070: return initialization;
+                case 2071: return condition;
+                case 2072: return strif;
+                case 2073: return rel_exp;
+                case 2074: return rel_comp;
+                case 2075: return d_opTail;
+                case 2076: return strelse;
+                case 2077: return strwhile;
+                case 2078: return dowhile;
+                default:
+                    return "";
+            }
+        }
+    }
+    
+}
