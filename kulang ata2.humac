@@ -1,0 +1,26 @@
+^&global declaration&^
+WHOLE x = 3, z;
+
+^&2D array&^
+WHOLE y[2][2] = {{1,2},{3,4}};
+CHOICE p = YES;
+
+
+WAKE(){
+	^&initialization with logical and relational operation&^
+	CHOICE m = ((1>0) && p \\ );
+	SPEAK(m & "\n");
+	^&for loop with complicated condition&^
+	EXECUTE(x = 0; (((x < 10)&& (1 > 0 && 2 > 0)) && 2 > 1); x++){
+		SPEAK("Inside for loop condition\n");
+	}
+	SPEAK(x & "\n");
+	^&output with complicated relational and logical condition&^
+	SPEAK((((x < 10) \\ ((1 > 0) && 2 > 0)) && 2 > 1) & " hello\n");
+	EXECUTE(x = 0; x < 2; x++){
+		EXECUTE(z = 0; z < 2; z++){
+			SPEAK(y[x][z]);
+		}
+	}
+}
+SLEEP;
